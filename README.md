@@ -1,10 +1,13 @@
-<img src="public/logo_fcr.png" style="display:flex; justify-content-center:center; align-items-center:center"/>
 # Tavyissa E-Commerce Application
 
 #General Info
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
+# Description
+- Choisissez votre date de location au minimum 2 jours et découvrez notre sélection. Avec une piéce louée, offrez-vous un essayage si vous hésitez entre 2 tailles et 2 tenues.
+- La livraison Express est disponible!Faîtes-vous livrer chez vous ou en point relais sous 3 jours ouvrés. La livraison standard reste offerte.
+- Renvoyez vos piéces 24h aprés votre date de fin de location. Le pressing est offert...
 
 
 ## This project is created using:
@@ -30,11 +33,4 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
     - Forget password
 
 
-# ScreenShot
 
-<img src="screen/screen1.png">
-<img src="screen/screen2.png">
-<img src="screen/screen3.png">
-<img src="screen/screen4.png">
-<img src="screen/screen5.png">
-<img src="screen/screen6.png">
