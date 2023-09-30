@@ -1,6 +1,6 @@
 # Tavyissa E-Commerce Application
 
-#General Info
+# General Info
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
